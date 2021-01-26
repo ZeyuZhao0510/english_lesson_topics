@@ -17,6 +17,11 @@
 - mathematics about blockchain
 - how to fly a FA-18C hornet plane (game)
 
+- Economics related: Are people always rational when consuming? How to "force" people to be more rational? (e.g. nudge)
+- Social science related: How is our decision influenced by the wording of a situation? (Framing effect)
+- Pricing models (maybe not now, but after I finished my course on it :D)
+- Economics related: How would asymmetric information influence market behaviour? (moral hazard, agency theory, adverse selection)
+- (Presenting one of my finised course projects) A meta-analysis on the effectiveness of telemonitoring in managing Type 2 diabetes.
 
 ```
 import numpy as np
